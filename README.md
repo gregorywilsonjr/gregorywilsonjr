@@ -1,4 +1,4 @@
-# <a href="https://www.linkedin.com/in/gregorywilsonjr/">Gregory Wilson</a>'s GRC/Cybersecurity Project Portfolio 🔐
+# <a href="https://www.linkedin.com/in/gregorywilsonjr/">Gregory Wilson</a>'s GRC & Cybersecurity Project Portfolio 🔐
 
 Cybersecurity isn’t just my profession; it’s my sandbox. I thrive on tearing into hands-on projects that range from chasing down vulnerabilities to fine-tuning threat detection pipelines. Whether I’m hardening configs, reducing false positives, or making SIEMs behave, I continuously optimize for real-world impact. The cyber threat landscape evolves fast, but fortunately, so does my caffeine intake.  
 
@@ -21,8 +21,11 @@ Take a look at my projects to see how I turn chaos into clean logs and confusion
 [<img align="left" alt="___________ | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="___________ | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="___________ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="___________ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="___________ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Instagram]
 
+[twitter]: https://twitter.com/___________
+[youtube]: https://www.youtube.com/c/___________
+[instagram]: https://www.instagram.com/___________
 [linkedin]: https://www.linkedin.com/in/gregorywilsonjr
 
 <!--
