@@ -1,6 +1,8 @@
 # <a href="https://www.linkedin.com/in/gregorywilsonjr/">Gregory Wilson</a>'s GRC/Cybersecurity Project Portfolio 🔐
 
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please check them out and see my work on enhancing security operations and processes!
+Cybersecurity isn’t just my profession; it’s my sandbox. I thrive on tearing into hands-on projects that range from chasing down vulnerabilities to fine-tuning threat detection pipelines. Whether I’m hardening configs, reducing false positives, or making SIEMs behave, I continuously optimize for real-world impact. The cyber threat landscape evolves fast, but fortunately, so does my caffeine intake.  
+
+Take a look at my projects to see how I turn chaos into clean logs and confusion into cleaner policies.
 
 
 ## ⚠️ Vulnerability Management Projects
