@@ -1,4 +1,4 @@
-# <a href="https://www.linkedin.com/in/gregorywilsonjr/">Gregory Wilson</a>'s GRC & Cybersecurity Project Portfolio 🔐
+# <a href="https://www.linkedin.com/in/gregorywilsonjr/">Gregory Wilson's</a> GRC Engineering | Agentic AI Cybersecurity Project Portfolio 🔐
 
 Cybersecurity isn’t just my profession; it’s my sandbox. I thrive on tearing into hands-on projects that range from chasing down vulnerabilities to fine-tuning threat detection pipelines. Whether I’m hardening configs, reducing false positives, or making SIEMs behave, I continuously optimize for real-world impact. The cyber threat landscape evolves fast, but fortunately, so does my caffeine intake.  
 
